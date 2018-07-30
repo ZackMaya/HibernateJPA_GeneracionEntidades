@@ -1,0 +1,1 @@
+# HibernateJPA_GeneracionEntidades
